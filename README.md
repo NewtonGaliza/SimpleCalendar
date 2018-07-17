@@ -1,1 +1,1 @@
-# SimpleCalendar
+# Simple Calendar in Python
